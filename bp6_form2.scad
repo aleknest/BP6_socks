@@ -297,7 +297,7 @@ module outer()
 					,halign="center"
 					,valign="center"
 					,size=8
-					,font="Chilanka"
+					,font="Impact"
 				);
 		}
 		translate (throad_tr)
